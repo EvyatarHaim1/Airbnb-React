@@ -12,7 +12,8 @@ function Banner() {
                 {showSearch && <Search />}
                 <Button className="serachBtn" 
                         onClick={() => setShowSearch(!showSearch)}
-                        variant="outlined">Search Dates
+                        variant="outlined"> 
+                        {showSearch ? "Hide" : "Search Dates"}
                 </Button>
             </BannerSearch>
             <BannerInfo>
@@ -27,7 +28,7 @@ function Banner() {
 export default Banner;
 
 const Div = styled.div`
-height: 60vh;
+height: 50vh;
 position: relative;
 background-image: url("https://media.cntraveler.com/photos/5db1d0dd11c1e500092e7133/master/pass/airbnb-ski-aspen-28328347.jpg");
 background-position: center center;
