@@ -18,7 +18,7 @@ function Home() {
                       perfect for a jog or bike ride.
                       Perfect for couples, solo adventurers, or business travelers."
                       price="$113/night"
-                      rating={4}
+                      rating="4.5"
                 />
                 <Card 
                       src="https://a0.muscache.com/im/pictures/4f64a0ca-1a7f-44f5-8896-38bc9923b6e4.jpg?im_w=1200"
@@ -29,7 +29,7 @@ function Home() {
                       L'arredo è studiato per poter svolgere tutte le funzioni come in una mini casa. Lo spazio è dotato di tutti i confort: grande doccia, 
                       wi-fi e TV a schermo piatto. Sul tetto terrazza panoramica con vista a 360°."
                       price="$‏99/night"
-                      rating={5}
+                      rating="5"
                 />
                  <Card 
                       src="https://a0.muscache.com/im/pictures/dc9fddac-3501-4bd7-9482-6475fa011d64.jpg?aki_policy=xx_large"
@@ -39,7 +39,7 @@ function Home() {
                        “Nothing beats the feeling of the “light sunset” near the pool, when you relaxed on the sofa and drinking a wine,
                         read a book or talking with friends.”"
                         price="$‏77 /night"
-                        rating={4}
+                        rating="4.9"
                  />
             </Home_section>
                  
@@ -52,7 +52,7 @@ function Home() {
                       many cafes, fresh food supermarket are just in a few steps from the house.
                       The Seminyak beach with famous La planca sunset beach bar is about 20 minites walking away."
                       price="$‏152/night"
-                      rating={5}
+                      rating="5"
                 />
                 <Card 
                       src="https://a0.muscache.com/im/pictures/b0953be8-2b06-4417-b89c-d611ac89c14f.jpg?im_w=1200"
@@ -62,7 +62,7 @@ function Home() {
                       distance to “Double Six, 66 beach“, shops, restaurants and a good access to the main roads.
                       Its a quiet and peaceful base to unwind from your exciting life on the island."
                       price="$‏70/night"
-                      rating={5}
+                      rating="4.8"
                 />
                  <Card 
                       src="https://a0.muscache.com/im/pictures/277c4ff9-f24e-4ed3-b697-73c7d71fab6f.jpg?im_w=1200"
@@ -73,7 +73,7 @@ function Home() {
                       can get public transports very easy, family-friendly activities, nightlife, public transport, 
                       the airport. You’ll love my place because of the neighborhood, the comfy bed, and the coziness."
                       price="$‏90/night"
-                      rating={5}
+                      rating="4.6"
                  />
             </Home_section>
 
@@ -89,7 +89,7 @@ function Home() {
                       Wifi is included. Bills are included until 50 euros/month
                       "
                       price="$60/night"
-                      rating={5}
+                      rating="5"
                 />
                 <Card 
                       src="https://a0.muscache.com/im/pictures/2f3b3606-cacb-40cb-ad32-3e98d5bfc9dc.jpg?im_w=1200"
@@ -100,7 +100,7 @@ function Home() {
                       complete and fully equipped. In addition, 
                       it has a balcony where you can enjoy great views of the city that gives the apartment great light and air."
                       price="$‏69/night"
-                      rating={4}
+                      rating="4.9"
                 />
                  <Card 
                       src="https://a0.muscache.com/im/pictures/miso/Hosting-45475252/original/9334e783-9e58-4f0e-b425-cad6c604cb04.jpeg?im_w=1440"
@@ -110,7 +110,7 @@ function Home() {
                       bathroom with underfloor heating, a working table and queen-size or double bed.
                       The accommodations are accessed via digital locks."
                       price="$90/night"
-                      rating={5}
+                      rating="4.3"
                  />
             </Home_section>
 
@@ -125,7 +125,7 @@ function Home() {
                       Buckingham Palace and some fantastic shops, restaurants and theatres, 
                       it is the perfect location to stay in London"
                       price="$81/night"
-                      rating={4}
+                      rating="4.8"
                 />
                 <Card 
                       src="https://a0.muscache.com/im/pictures/fad4ffa0-488f-46ca-8435-827a5b683dd4.jpg?im_w=1200"
@@ -136,7 +136,7 @@ function Home() {
                       and today it offers luxury accommodation for your stay in Mayfair that showcases 
                       all the traditional features of the property’s past."
                       price="$‏102/night"
-                      rating={3}
+                      rating="5"
                 />
                  <Card 
                       src="https://a0.muscache.com/im/pictures/07e19e03-a90b-4915-8f8b-3e4b29fc4012.jpg?im_w=1200"
@@ -147,7 +147,7 @@ function Home() {
                       sights and ancient buildings. You will also find lots of elegant restaurants and cozy cafes as 
                       well as gorgeous city beach within walking distance."
                       price="$127/night"
-                      rating={5}
+                      rating="5"
                  />
             </Home_section>
         </Div>

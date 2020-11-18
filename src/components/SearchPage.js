@@ -24,7 +24,7 @@ function SearchPage() {
                          Perfect for couples, solo adventurers, or business travelers."
                          star="4.5"
                          price="$113/night"
-                         total="$226" />
+                         total="$113" />
 
                 <SearchResult
                          img="https://a0.muscache.com/im/pictures/4f64a0ca-1a7f-44f5-8896-38bc9923b6e4.jpg?im_w=1200"
