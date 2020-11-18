@@ -48,7 +48,7 @@ const Div = styled.div`
 position:absolute;
 top: 35px;
 width: 100vw;
-right: 5%;
+right: 4%;
  h2{
     display: flex;
     align-items: center;
@@ -57,7 +57,7 @@ right: 5%;
     padding: 10px;
     background-color:white;
     position: absolute;
-    left: 31.5%;
+    left: 31.1%;
      top: 330px;  
 }
 .inputNumber:focus{
@@ -67,15 +67,15 @@ right: 5%;
     width: 539px;
     padding: 20px;
     position: absolute;
-    left: 31.5%;
+    left: 31.1%;
     height: 30px;
-    top: 350px;
+    top: 375px;
     border: none;
 }
 .btn{
     position: absolute;
-    left:31%;
-    top: 410px;
+    left:31.1%;
+    top: 435px;
     text-transform: inherit !important;
     background-color: #ff7779;
     color: white;

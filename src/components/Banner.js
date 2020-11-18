@@ -28,14 +28,15 @@ function Banner() {
 export default Banner;
 
 const Div = styled.div`
-height: 50vh;
+height: 70vh;
 position: relative;
 background-image: url("https://media.cntraveler.com/photos/5db1d0dd11c1e500092e7133/master/pass/airbnb-ski-aspen-28328347.jpg");
-background-position: center center;
+background-position: center ;
 `
 const BannerSearch = styled.div`
 display: flex;
 flex-direction: column;
+/* width:100%100vw; */
 
 .serachBtn {
     background-color: white !important;
