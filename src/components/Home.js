@@ -163,5 +163,5 @@ align-items: center;
 `
 const Home_section = styled.div`
 display: flex;
-padding: 50px;
+padding: 40px;
 `

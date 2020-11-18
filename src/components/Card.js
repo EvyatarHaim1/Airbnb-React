@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { Button } from '@material-ui/core';
-
+import StarIcon from '@material-ui/icons/Star';
 function Card({ src, title, description, price, rating }) {
     return (
         <Div>
@@ -12,11 +12,7 @@ function Card({ src, title, description, price, rating }) {
                 <h2>{title}</h2>
                 <h4>{description}</h4>
                 <div className="price-rating">
-                {Array(rating)
-                      .fill()
-                      .map((_, i) => (
-                    <p>⭐</p>
-                    ))}
+                <p> <StarIcon style={{color:"#FF385C", marginRight: "10px"}}/> {rating} </p>
                 <h3>{price}</h3>
                 </div>
             </div>
@@ -51,6 +47,11 @@ img {
     padding: 20px;
     padding-top: 20px;
     border: 1;
+    p{
+        display:flex;
+        justify-content: space-between;
+        width: 50px;
+        }
     h2{
         font-size: 18px;
         font-weight: 600;
